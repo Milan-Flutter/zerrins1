@@ -1238,6 +1238,7 @@ class _SurveyState extends State<Survey> {
                           ],
                         ),
                       ),
+
                       size(),
                       Container(
                         width: me.width * .4,
